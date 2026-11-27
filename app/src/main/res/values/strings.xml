@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pulse</string>
+    <string name="notification_channel_name">Hydration Reminders</string>
+    <string name="notification_channel_description">Periodic water intake reminders throughout your active day.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+</resources>
+

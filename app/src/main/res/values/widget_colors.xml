@@ -1,0 +1,10 @@
+<resources>
+    <color name="widget_surface">#EAF1F6</color>
+    <color name="widget_text">#142330</color>
+    <color name="widget_muted">#476075</color>
+    <color name="widget_water">#007EA8</color>
+    <color name="widget_track">#CFDDE8</color>
+    <color name="widget_border">#AFC4D6</color>
+    <color name="widget_button">#007EA8</color>
+    <color name="widget_button_text">#F2F8FC</color>
+</resources>
